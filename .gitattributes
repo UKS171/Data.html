@@ -1,2 +1,15 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+  <body>
+    <iframe src="https://en.wikipedia.org/wiki/Pakistan" height="450" weith="300"></iframe>
+    <iframe width="560" height="350" src="https://www.youtube.com/embed/N_fKv33-yi8?si=MfNCt-HWt3cKIxCS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13612.888387968791!2d74.33030295!3d31.4630761!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391906a3c42292d5%3A0xd414eff2f9ffbb19!2sKot%20Lakhpat%2C%20Lahore!5e0!3m2!1sen!2s!4v1743919085885!5m2!1sen!2s" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </body>
+  </html>
+    
